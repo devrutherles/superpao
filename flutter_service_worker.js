@@ -3,11 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "9963f2ad722361b2ce45f076d52a0376",
+const RESOURCES = {"main.dart.js": "2ae7ae7b996bba264ccdaaddbddde935",
 "icons/Icon-512.png": "d126c6a330fa4b4dbe90764e21ff2d51",
 "icons/Icon-192.png": "d126c6a330fa4b4dbe90764e21ff2d51",
 "version.json": "4d9db958aa9e856e780dc2b669465d97",
-"web.zip": "70c6fdaf2b639a3a1eb2592b7c70b62a",
 "canvaskit/canvaskit.js.symbols": "38cba9233b92472a36ff011dc21c2c9f",
 "canvaskit/canvaskit.wasm": "3d2a2d663e8c5111ac61a46367f751ac",
 "canvaskit/chromium/canvaskit.js.symbols": "4525682ef039faeb11f24f37436dca06",
@@ -18,9 +17,9 @@ const RESOURCES = {"main.dart.js": "9963f2ad722361b2ce45f076d52a0376",
 "canvaskit/skwasm.wasm": "e42815763c5d05bba43f9d0337fa7d84",
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "canvaskit/skwasm.js.symbols": "741d50ffba71f89345996b0aa8426af8",
-"firebase-messaging-sw.js": "d9e55a38e13c1233e6fc453427f910a8",
-"index.html": "a0672495332a74526fffb78e51154765",
-"/": "a0672495332a74526fffb78e51154765",
+"firebase-messaging-sw.js": "43a1978c379139d1738e973afa30876e",
+"index.html": "37ef7d77aa34321bc94ae849947ee8bd",
+"/": "37ef7d77aa34321bc94ae849947ee8bd",
 "favicon.png": "c00145a8c973f2547a64aeea6f14c0c9",
 "assets/FontManifest.json": "569adbcb65082f8c8fed9d0f91829361",
 "assets/img/icon-3.svg": "3d659cb8ae82783ff5ff4310f3328e35",
@@ -589,7 +588,7 @@ const RESOURCES = {"main.dart.js": "9963f2ad722361b2ce45f076d52a0376",
 "assets/fonts/MaterialIcons-Regular.otf": "c025ea4e4a546f3207a0a21f7eb3ed65",
 "style.css": "d3582b5cab2857eb8ce84ef0266d3e15",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
-"manifest.json": "c7de6ab718aef68bbba6bb6b58e03a21",
+"manifest.json": "ab07e5042a15e07141840978ba7339ea",
 "logo.png": "d126c6a330fa4b4dbe90764e21ff2d51"};
 // The application shell files that are downloaded before a service worker can
 // start.
