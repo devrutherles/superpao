@@ -1,6 +1,6 @@
 {
-    "name": "SuperPao",
-    "short_name": "Super_Pao",
+    "name": "StackFood",
+    "short_name": "StackFood",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#EF7822",
