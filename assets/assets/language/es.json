@@ -31,7 +31,7 @@
   "invalid_phone_number": "Numero de telefono invalido. Ingrese su número de teléfono sin código de país",
   "enter_password": "Ingresa tu contraseña",
   "confirm_password_does_not_matched": "La contraseña confirmada no coincide",
-  "password_should_be": "La contraseña debe ser mayor de 8 caracteres",
+  "password_should_be": "La contraseña debe ser mayor de 6 caracteres",
   "otp_verification": "Verificación OTP",
   "enter_the_verification_sent_to": "Ingrese el código de verificación (OTP) enviado a",
   "verify": "Verificar",
@@ -972,7 +972,5 @@
   "all_food_items": "Todos los ítems de comida",
   "this_is_my_refer_code": "Este es mi código de referencia",
   "instance_order_is_not_active": "La orden de instancia no está activa",
-  "joined" : "Unida",
-  "password_should_be_8_characters" : "La contraseña debe tener 8 caracteres.",
-  "please_enter_order_id" : "Por favor ingrese la identificación del pedido"
+  "joined" : "Unida"
 }

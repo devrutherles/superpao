@@ -31,7 +31,7 @@
   "invalid_phone_number": "ফোন নম্বর সঠিক নয়",
   "enter_password": "আপনার পাসওয়ার্ড দিন",
   "confirm_password_does_not_matched": "কনফার্ম  পাসওয়ার্ড মিলছে না ",
-  "password_should_be": "পাসওয়ার্ড ৬ টি ক্যারেক্টর চেয়ে বেশি হওয়া উচিত",
+  "password_should_be": "পাসওয়ার্ড 6 টি ক্যারেক্টর চেয়ে বেশি হওয়া উচিত",
   "otp_verification": "ওটিপি ভেরিফিকেশন ",
   "enter_the_verification_sent_to": "প্রেরিত ভেরিফিকেশন কোড (ওটিপি) দিন",
   "verify": "ভেরিফাই করুন",
@@ -984,7 +984,5 @@
   "all_food_items" : "সমস্ত খাদ্য আইটেম",
   "this_is_my_refer_code" : "এই আমার রেফার কোড",
   "instance_order_is_not_active" : "ইনস্ট্যান্স অর্ডার সক্রিয় নয়",
-  "joined" : "যোগদান করেছেন",
-  "password_should_be_8_characters" : "পাসওয়ার্ড 8 অক্ষরের হতে হবে",
-  "please_enter_order_id" : "অর্ডার আইডি লিখুন"
+  "joined" : "যোগদান করেছেন"
 }

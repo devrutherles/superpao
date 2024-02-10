@@ -987,7 +987,5 @@
   "all_food_items" : "جميع المواد الغذائية",
   "this_is_my_refer_code" : "هذا هو رمز الإحالة الخاص بي",
   "instance_order_is_not_active" : "ترتيب المثيل غير نشط",
-  "joined" : "انضم",
-  "password_should_be_8_characters" : "يجب أن تتكون كلمة المرور من 8 أحرف",
-  "please_enter_order_id" : "الرجاء إدخال معرف الطلب"
+  "joined" : "انضم"
 }
