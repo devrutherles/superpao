@@ -25,6 +25,7 @@ import '../styles/global.css'
 import '../styles/nprogress.css'
 import nProgress from 'nprogress'
 import Head from 'next/head'
+
 import { setLanguage } from '../redux/slices/languageChange'
 
 Router.events.on('routeChangeStart', nProgress.start)

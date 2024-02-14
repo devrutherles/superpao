@@ -3,6 +3,7 @@ import Document, { Html, Head, Main, NextScript } from 'next/document'
 import createEmotionServer from '@emotion/server/create-instance'
 import createEmotionCache from '../utils/create-emotion-cache'
 import DynamicFavicon from '../components/favicon/DynamicFavicon'
+import { Analytics } from '@vercel/analytics/react';
 
 class CustomDocument extends Document {
     render() {
@@ -38,6 +39,8 @@ class CustomDocument extends Document {
                 </Head>
                 <body>
                     <Main />
+                    <Analytics />
+
                     <NextScript />
                 </body>
             </Html>
