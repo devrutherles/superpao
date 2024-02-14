@@ -5,7 +5,7 @@ import spanFlag from '../../../../../public/static/country-flag/spain.png'
 export const languageLists = [
 
     {
-        languageName: 'Pt',
+        languageName: 'english',
         languageCode: 'en',
         countryCode: 'US',
         countryFlag: usFlag.src,
