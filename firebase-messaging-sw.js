@@ -1,5 +1,5 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
-import { getMessaging } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+import { initializeApp } from 'firebase/app';
+  import { getMessaging } from 'firebase/app';
 const firebaseConfig = {
     apiKey: "AIzaSyAAloJqungqqBa0di6yDD_hL2E6Qi4IcVs",
     authDomain: "vital-octagon-215300.firebaseapp.com",
