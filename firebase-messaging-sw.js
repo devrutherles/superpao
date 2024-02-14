@@ -40,3 +40,17 @@ self.addEventListener('notificationclick', function (event) {
 
 
 
+
+messaging.onBackgroundMessage(payload => {
+    // Customize notification here
+    const notificationTitle = 'Background Message Title';
+    const notificationOptions = {
+      body: 'Background Message body.',
+      icon: '/logo.png'
+    };
+  
+    self.registration.showNotification(notificationTitle,
+      notificationOptions);
+  });
+
+
